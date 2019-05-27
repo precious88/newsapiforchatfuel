@@ -1,0 +1,28 @@
+{
+  "name": "pakage_js",
+  "version": "1.0.0",
+  "description": "my newsapi project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/precious88/newsapiforchatfuel.git"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "precious udomah (precious88)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/precious88/newsapiforchatfuel/issues"
+  },
+  "homepage": "https://github.com/precious88/newsapiforchatfuel#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "newsapi": "^2.4.0",
+    "save": "^2.4.0"
+  }
+}
